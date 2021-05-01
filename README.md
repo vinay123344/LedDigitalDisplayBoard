@@ -1,2 +1,2 @@
 # DigitalDisplayBoard
-Display text in LED P10 module using bluetooth module and Arduino Uno
+Display Text in P10 Led Module using Bluetooth Module and Arduino Uno
